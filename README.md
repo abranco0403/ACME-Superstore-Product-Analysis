@@ -42,11 +42,8 @@ All three rank in bottom 3 across all regions (Central, East, South, West)
 
 ## 📁 Files Included
 
-- `worst_performers_visualization.png` - Main visualization
+- `superstore_image.jpg` - Main visualization
 - `PORTFOLIO_CASE_STUDY.md` - Full project narrative
-- `PORTFOLIO_DESIGN_PRINCIPLES.md` - Design thinking breakdown
-- `PORTFOLIO_BUSINESS_IMPACT.md` - ROI analysis
-- `PORTFOLIO_INTERVIEW_TALKING_POINTS.md` - Interview prep
 
 ## 💼 Skills Demonstrated
 
@@ -60,4 +57,4 @@ All three rank in bottom 3 across all regions (Central, East, South, West)
 
 **Created:** August 2026
 **Author:** [Alessandro Branco]
-**LinkedIn:** [Your LinkedIn URL]
+**LinkedIn:** [https://www.linkedin.com/in/alessandro-branco/]
