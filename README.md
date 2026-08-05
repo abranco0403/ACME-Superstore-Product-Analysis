@@ -35,9 +35,10 @@ All three rank in bottom 3 across all regions (Central, East, South, West)
 
 ## 🔗 Links
 
+![ACME Superstore Worst Performers Visualization](images/superstore_image.jpg)
+
 - **Live Tableau Dashboard:** [https://public.tableau.com/views/ACME_SuperstoreWorst_Performers/WorstPerformersbyRegion](https://public.tableau.com/views/ACME_Superstore_Worst_Performers/WorstPerformersbyRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Full Case Study:** See CASE_STUDY.md
-- **Design Deep Dive:** See DESIGN_PRINCIPLES.md
 
 ## 📁 Files Included
 
@@ -58,5 +59,5 @@ All three rank in bottom 3 across all regions (Central, East, South, West)
 ---
 
 **Created:** August 2026
-**Author:** [Your Name]
+**Author:** [Alessandro Branco]
 **LinkedIn:** [Your LinkedIn URL]
